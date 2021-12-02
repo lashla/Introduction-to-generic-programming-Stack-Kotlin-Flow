@@ -1,1 +1,2 @@
 # Introduction-to-generic-programming-Stack-Kotlin-Flow
+Stack is an abstract data type that serves as a collection of elements according to the principle LIFO – "last in, first out". We want you to create your own stack class named MyStack based on the List, which stores values of some type. Implement the methods push() to add items to the top of the stack and pop() to remove the top element and return its value.
